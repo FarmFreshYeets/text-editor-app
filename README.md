@@ -4,7 +4,7 @@
 The goal of this project was to create a PWA text editor. This was achieved with the use of client-server structuring which allows for a seperation of files dedicated for running the server and bundling assets with Webpack for the user.
 
 ## Installation
-Click this link to view the deployed application: 
+Click this link to view the deployed application: https://text-editor-app-farmfreshyeets.herokuapp.com/ 
 
 ## Usage
 To use this application, type your code or text in the text field. Clicking out of the app will update the database with your input, so the next time you click on the app or refresh, your text will still be there. Click the 'Install' button in the top left to download the app to your device.
