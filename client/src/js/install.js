@@ -30,4 +30,4 @@ butInstall.classList.toggle('hidden', true);
 window.addEventListener('appinstalled', (event) => {
 // Clear prompt
 window.deferredPrompt = null;
-}); 
+});
